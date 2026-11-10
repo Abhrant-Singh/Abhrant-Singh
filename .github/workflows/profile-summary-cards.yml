@@ -20,4 +20,4 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           # This overrides the name so it doesn't truncate to Abhr...
-          NAME: "CodeNinja22-AS"
+          NAME: "Abhrant-Singh"

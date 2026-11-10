@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Abhrant Singh 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/CodeNinja22-AS">
+  <a href="https://github.com/Abhrant-Singh">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;Cloud+Security+%7C+AI-Driven+Defense;Designing+systems+that+hold+under+pressure" alt="Typing SVG" />
   </a>
 </p>
@@ -113,7 +113,7 @@ root@codeninja:~# ./display_skills.sh --category=malware-forensics
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeNinja22-AS&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Abhrant-Singh&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
@@ -124,7 +124,7 @@ root@codeninja:~# ./display_skills.sh --category=malware-forensics
   <a href="https://www.linkedin.com/in/abhrant-singh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/CodeNinja22-AS" target="_blank">
+  <a href="https://github.com/Abhrant-Singh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhrantsingh2226@gmail.com" target="_blank">
